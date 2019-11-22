@@ -19,5 +19,5 @@ module.exports = function(source) {
         ? preparePath(WEBPACK_OPTIONS.alias, this.resourcePath, source)
         : source;
 
-    return pugString
+    return pugString;
 }

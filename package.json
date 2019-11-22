@@ -1,0 +1,17 @@
+{
+  "name": "alias-path-loader",
+  "version": "1.0.0",
+  "description": "Replaces a path alias with the relative path",
+  "main": "index.js",
+  "repository": "git+https://github.com/hammster/alias-path-loader.git",
+  "keywords": [
+    "alias",
+    "webpack"
+  ],
+  "author": "Hans Koch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hammster/alias-path-loader/issues"
+  },
+  "homepage": "https://github.com/hammster/alias-path-loader"
+}

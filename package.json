@@ -1,6 +1,6 @@
 {
   "name": "alias-path-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Replaces a path alias with the relative path",
   "main": "index.js",
   "repository": "git+https://github.com/hammster/alias-path-loader.git",
